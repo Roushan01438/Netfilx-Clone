@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Netfilx-Clone/static/css/main.23217262.css",
+    "main.js": "/Netfilx-Clone/static/js/main.b5ff2649.js",
+    "static/js/787.440c4889.chunk.js": "/Netfilx-Clone/static/js/787.440c4889.chunk.js",
+    "index.html": "/Netfilx-Clone/index.html",
+    "main.23217262.css.map": "/Netfilx-Clone/static/css/main.23217262.css.map",
+    "main.b5ff2649.js.map": "/Netfilx-Clone/static/js/main.b5ff2649.js.map",
+    "787.440c4889.chunk.js.map": "/Netfilx-Clone/static/js/787.440c4889.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23217262.css",
+    "static/js/main.b5ff2649.js"
+  ]
+}
